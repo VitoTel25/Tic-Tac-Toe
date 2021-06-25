@@ -48,3 +48,7 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.restart {
+  padding: 8px 16px 8px 16px;
+}
